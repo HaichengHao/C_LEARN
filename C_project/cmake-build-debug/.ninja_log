@@ -1,0 +1,12 @@
+# ninja log v5
+4	85	7321883881910262	CMakeFiles/C_project.dir/main.c.obj	2b7be1023cfcfb61
+10	123	7321894692143731	CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj	fefbce3c5e94055a
+85	276	7321883883770143	C_project.exe	b12111e1e7f553d8
+12	262	7321883681408021	CMakeFiles/C_project.dir/chapter01/01_HelloWord.c.obj	e079cd5f22eca6dc
+4	96	7321894691867769	CMakeFiles/01_HelloWord.dir/chapter01/01_HelloWord.c.obj	bad595618a4c6581
+124	325	7321894694122023	01_HelloWord.exe	e1c83606c8368292
+23	2190	7321957447376626	CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj	fefbce3c5e94055a
+8	2222	7321957447696574	CMakeFiles/01_HelloWord.dir/chapter01/03_helloworldµÄÆÊÎö.c.obj	9e2ad121a89264d7
+2223	3664	7321957462119308	01_HelloWord.exe	35cc29fe80cac720
+4	158	7321959523132244	CMakeFiles/01_HelloWord.dir/chapter01/03_helloworldµÄÆÊÎö.c.obj	9e2ad121a89264d7
+158	383	7321959525352237	01_HelloWord.exe	35cc29fe80cac720
