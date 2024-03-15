@@ -8,4 +8,5 @@ add_executable(C_project main.c
 
 add_executable(01_HelloWord chapter01/01_HelloWord.c
         chapter01/02_Comment.c
-        chapter01/03_helloworld的剖析.c)
+        chapter01/03_helloworld的剖析.c
+        chapter01/04_printf实现细节.c)

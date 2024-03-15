@@ -106,6 +106,12 @@ build CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj: C_COMPILE
   OBJECT_DIR = CMakeFiles\01_HelloWord.dir
   OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter01
 
+build CMakeFiles/01_HelloWord.dir/chapter01/04_printf实现细节.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter01/04_printf实现细节.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter01\04_printf实现细节.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 01_HelloWord
@@ -114,7 +120,7 @@ build CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj: C_COMPILE
 #############################################
 # Link the executable 01_HelloWord.exe
 
-build 01_HelloWord.exe: C_EXECUTABLE_LINKER__01_HelloWord_Debug CMakeFiles/01_HelloWord.dir/chapter01/01_HelloWord.c.obj CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj
+build 01_HelloWord.exe: C_EXECUTABLE_LINKER__01_HelloWord_Debug CMakeFiles/01_HelloWord.dir/chapter01/01_HelloWord.c.obj CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj CMakeFiles/01_HelloWord.dir/chapter01/04_printf实现细节.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_HelloWord.dir
