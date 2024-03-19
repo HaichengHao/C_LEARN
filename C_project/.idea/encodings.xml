@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/C_BOOK/01_1st.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/C_BOOK/02_变量定义.c" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter01/04_printf实现细节.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/04_常见浮点型的使用.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/06_bool类型.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/07_变量间的运算规则.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/08_常量.c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
