@@ -4,7 +4,8 @@ project(C_project C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(C_project main.c
-        chapter01/01_HelloWord.c)
+        chapter01/01_HelloWord.c
+        )
 
 add_executable(01_HelloWord chapter01/01_HelloWord.c
         chapter01/02_Comment.c
@@ -19,4 +20,12 @@ add_executable(01_HelloWord chapter01/01_HelloWord.c
         chapter02/05_字符类型.c
         chapter02/06_bool类型.c
         chapter02/07_变量间的运算规则.c
-        chapter02/08_常量.c)
+        chapter02/08_常量.c
+        chapter02/09_输入输出函数.c
+        chapter02/10_进制.c
+        chapter02/11_原反补码.c
+        chapter02/demo.c
+        chapter03_operator_seqcontrol/01_operator.c
+        chapter03_operator_seqcontrol/02_Assignment_operators.c
+        chapter03_operator_seqcontrol/03_Comparison_operators.c
+)

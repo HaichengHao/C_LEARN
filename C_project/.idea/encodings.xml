@@ -8,6 +8,9 @@
     <file url="file://$PROJECT_DIR$/chapter02/06_bool类型.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter02/07_变量间的运算规则.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter02/08_常量.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/09_输入输出函数.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03_operator_seqcontrol/01_operator.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03_运算符与流程控制/01_运算符(operator).c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
