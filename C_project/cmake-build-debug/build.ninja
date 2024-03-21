@@ -214,6 +214,54 @@ build CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/03_Comparison_op
   OBJECT_DIR = CMakeFiles\01_HelloWord.dir
   OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_operator_seqcontrol
 
+build CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/04_Logical_operators.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter03_operator_seqcontrol/04_Logical_operators.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter03_operator_seqcontrol\04_Logical_operators.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_operator_seqcontrol
+
+build CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/05_Bitwise_operators.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter03_operator_seqcontrol/05_Bitwise_operators.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter03_operator_seqcontrol\05_Bitwise_operators.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_operator_seqcontrol
+
+build CMakeFiles/01_HelloWord.dir/chapter02/12_Conditional_operators.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter02/12_Conditional_operators.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter02\12_Conditional_operators.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter02
+
+build CMakeFiles/01_HelloWord.dir/chapter02/13_sizeof.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter02/13_sizeof.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter02\13_sizeof.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter02
+
+build CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/01_if_else.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/01_if_else.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol\01_if_else.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol
+
+build CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/02_switch_case.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/02_switch_case.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol\02_switch_case.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol
+
+build CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/03_for_loop.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/03_for_loop.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol\03_for_loop.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol
+
+build CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/04_while_loop.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/04_while_loop.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol\04_while_loop.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 01_HelloWord
@@ -222,7 +270,7 @@ build CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/03_Comparison_op
 #############################################
 # Link the executable 01_HelloWord.exe
 
-build 01_HelloWord.exe: C_EXECUTABLE_LINKER__01_HelloWord_Debug CMakeFiles/01_HelloWord.dir/chapter01/01_HelloWord.c.obj CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj CMakeFiles/01_HelloWord.dir/chapter01/04_printf实现细节.c.obj CMakeFiles/01_HelloWord.dir/chapter02/01_标识符.c.obj CMakeFiles/01_HelloWord.dir/chapter02/02变量的定义与分类.c.obj CMakeFiles/01_HelloWord.dir/chapter02/03_常见整型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/04_常见浮点型的使用.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/01_1st.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/02_变量定义.c.obj CMakeFiles/01_HelloWord.dir/chapter02/05_字符类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/06_bool类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/07_变量间的运算规则.c.obj CMakeFiles/01_HelloWord.dir/chapter02/08_常量.c.obj CMakeFiles/01_HelloWord.dir/chapter02/09_输入输出函数.c.obj CMakeFiles/01_HelloWord.dir/chapter02/10_进制.c.obj CMakeFiles/01_HelloWord.dir/chapter02/11_原反补码.c.obj CMakeFiles/01_HelloWord.dir/chapter02/demo.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/01_operator.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/02_Assignment_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/03_Comparison_operators.c.obj
+build 01_HelloWord.exe: C_EXECUTABLE_LINKER__01_HelloWord_Debug CMakeFiles/01_HelloWord.dir/chapter01/01_HelloWord.c.obj CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj CMakeFiles/01_HelloWord.dir/chapter01/04_printf实现细节.c.obj CMakeFiles/01_HelloWord.dir/chapter02/01_标识符.c.obj CMakeFiles/01_HelloWord.dir/chapter02/02变量的定义与分类.c.obj CMakeFiles/01_HelloWord.dir/chapter02/03_常见整型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/04_常见浮点型的使用.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/01_1st.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/02_变量定义.c.obj CMakeFiles/01_HelloWord.dir/chapter02/05_字符类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/06_bool类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/07_变量间的运算规则.c.obj CMakeFiles/01_HelloWord.dir/chapter02/08_常量.c.obj CMakeFiles/01_HelloWord.dir/chapter02/09_输入输出函数.c.obj CMakeFiles/01_HelloWord.dir/chapter02/10_进制.c.obj CMakeFiles/01_HelloWord.dir/chapter02/11_原反补码.c.obj CMakeFiles/01_HelloWord.dir/chapter02/demo.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/01_operator.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/02_Assignment_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/03_Comparison_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/04_Logical_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/05_Bitwise_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter02/12_Conditional_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter02/13_sizeof.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/01_if_else.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/02_switch_case.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/03_for_loop.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/04_while_loop.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_HelloWord.dir
@@ -231,6 +279,237 @@ build 01_HelloWord.exe: C_EXECUTABLE_LINKER__01_HelloWord_Debug CMakeFiles/01_He
   TARGET_FILE = 01_HelloWord.exe
   TARGET_IMPLIB = lib01_HelloWord.dll.a
   TARGET_PDB = 01_HelloWord.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 04_Logical_operators
+
+
+#############################################
+# Order-only phony target for 04_Logical_operators
+
+build cmake_object_order_depends_target_04_Logical_operators: phony || CMakeFiles/04_Logical_operators.dir
+
+build CMakeFiles/04_Logical_operators.dir/chapter03_operator_seqcontrol/04_Logical_operators.c.obj: C_COMPILER__04_Logical_operators_unscanned_Debug D$:/C_LEARN/C_project/chapter03_operator_seqcontrol/04_Logical_operators.c || cmake_object_order_depends_target_04_Logical_operators
+  DEP_FILE = CMakeFiles\04_Logical_operators.dir\chapter03_operator_seqcontrol\04_Logical_operators.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\04_Logical_operators.dir
+  OBJECT_FILE_DIR = CMakeFiles\04_Logical_operators.dir\chapter03_operator_seqcontrol
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 04_Logical_operators
+
+
+#############################################
+# Link the executable 04_Logical_operators.exe
+
+build 04_Logical_operators.exe: C_EXECUTABLE_LINKER__04_Logical_operators_Debug CMakeFiles/04_Logical_operators.dir/chapter03_operator_seqcontrol/04_Logical_operators.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\04_Logical_operators.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 04_Logical_operators.exe
+  TARGET_IMPLIB = lib04_Logical_operators.dll.a
+  TARGET_PDB = 04_Logical_operators.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 05_Bitwise_operators
+
+
+#############################################
+# Order-only phony target for 05_Bitwise_operators
+
+build cmake_object_order_depends_target_05_Bitwise_operators: phony || CMakeFiles/05_Bitwise_operators.dir
+
+build CMakeFiles/05_Bitwise_operators.dir/chapter03_operator_seqcontrol/05_Bitwise_operators.c.obj: C_COMPILER__05_Bitwise_operators_unscanned_Debug D$:/C_LEARN/C_project/chapter03_operator_seqcontrol/05_Bitwise_operators.c || cmake_object_order_depends_target_05_Bitwise_operators
+  DEP_FILE = CMakeFiles\05_Bitwise_operators.dir\chapter03_operator_seqcontrol\05_Bitwise_operators.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\05_Bitwise_operators.dir
+  OBJECT_FILE_DIR = CMakeFiles\05_Bitwise_operators.dir\chapter03_operator_seqcontrol
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 05_Bitwise_operators
+
+
+#############################################
+# Link the executable 05_Bitwise_operators.exe
+
+build 05_Bitwise_operators.exe: C_EXECUTABLE_LINKER__05_Bitwise_operators_Debug CMakeFiles/05_Bitwise_operators.dir/chapter03_operator_seqcontrol/05_Bitwise_operators.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\05_Bitwise_operators.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 05_Bitwise_operators.exe
+  TARGET_IMPLIB = lib05_Bitwise_operators.dll.a
+  TARGET_PDB = 05_Bitwise_operators.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 12_Conditional_operators
+
+
+#############################################
+# Order-only phony target for 12_Conditional_operators
+
+build cmake_object_order_depends_target_12_Conditional_operators: phony || CMakeFiles/12_Conditional_operators.dir
+
+build CMakeFiles/12_Conditional_operators.dir/chapter02/12_Conditional_operators.c.obj: C_COMPILER__12_Conditional_operators_unscanned_Debug D$:/C_LEARN/C_project/chapter02/12_Conditional_operators.c || cmake_object_order_depends_target_12_Conditional_operators
+  DEP_FILE = CMakeFiles\12_Conditional_operators.dir\chapter02\12_Conditional_operators.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\12_Conditional_operators.dir
+  OBJECT_FILE_DIR = CMakeFiles\12_Conditional_operators.dir\chapter02
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 12_Conditional_operators
+
+
+#############################################
+# Link the executable 12_Conditional_operators.exe
+
+build 12_Conditional_operators.exe: C_EXECUTABLE_LINKER__12_Conditional_operators_Debug CMakeFiles/12_Conditional_operators.dir/chapter02/12_Conditional_operators.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\12_Conditional_operators.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 12_Conditional_operators.exe
+  TARGET_IMPLIB = lib12_Conditional_operators.dll.a
+  TARGET_PDB = 12_Conditional_operators.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13_sizeof
+
+
+#############################################
+# Order-only phony target for 13_sizeof
+
+build cmake_object_order_depends_target_13_sizeof: phony || CMakeFiles/13_sizeof.dir
+
+build CMakeFiles/13_sizeof.dir/chapter02/13_sizeof.c.obj: C_COMPILER__13_sizeof_unscanned_Debug D$:/C_LEARN/C_project/chapter02/13_sizeof.c || cmake_object_order_depends_target_13_sizeof
+  DEP_FILE = CMakeFiles\13_sizeof.dir\chapter02\13_sizeof.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\13_sizeof.dir
+  OBJECT_FILE_DIR = CMakeFiles\13_sizeof.dir\chapter02
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13_sizeof
+
+
+#############################################
+# Link the executable 13_sizeof.exe
+
+build 13_sizeof.exe: C_EXECUTABLE_LINKER__13_sizeof_Debug CMakeFiles/13_sizeof.dir/chapter02/13_sizeof.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\13_sizeof.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 13_sizeof.exe
+  TARGET_IMPLIB = lib13_sizeof.dll.a
+  TARGET_PDB = 13_sizeof.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 01_if_else
+
+
+#############################################
+# Order-only phony target for 01_if_else
+
+build cmake_object_order_depends_target_01_if_else: phony || CMakeFiles/01_if_else.dir
+
+build CMakeFiles/01_if_else.dir/chapter03_seqcontrol/01_if_else.c.obj: C_COMPILER__01_if_else_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/01_if_else.c || cmake_object_order_depends_target_01_if_else
+  DEP_FILE = CMakeFiles\01_if_else.dir\chapter03_seqcontrol\01_if_else.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_if_else.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_if_else.dir\chapter03_seqcontrol
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 01_if_else
+
+
+#############################################
+# Link the executable 01_if_else.exe
+
+build 01_if_else.exe: C_EXECUTABLE_LINKER__01_if_else_Debug CMakeFiles/01_if_else.dir/chapter03_seqcontrol/01_if_else.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\01_if_else.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 01_if_else.exe
+  TARGET_IMPLIB = lib01_if_else.dll.a
+  TARGET_PDB = 01_if_else.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 02_switch_case
+
+
+#############################################
+# Order-only phony target for 02_switch_case
+
+build cmake_object_order_depends_target_02_switch_case: phony || CMakeFiles/02_switch_case.dir
+
+build CMakeFiles/02_switch_case.dir/chapter03_seqcontrol/02_switch_case.c.obj: C_COMPILER__02_switch_case_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/02_switch_case.c || cmake_object_order_depends_target_02_switch_case
+  DEP_FILE = CMakeFiles\02_switch_case.dir\chapter03_seqcontrol\02_switch_case.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\02_switch_case.dir
+  OBJECT_FILE_DIR = CMakeFiles\02_switch_case.dir\chapter03_seqcontrol
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 02_switch_case
+
+
+#############################################
+# Link the executable 02_switch_case.exe
+
+build 02_switch_case.exe: C_EXECUTABLE_LINKER__02_switch_case_Debug CMakeFiles/02_switch_case.dir/chapter03_seqcontrol/02_switch_case.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\02_switch_case.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 02_switch_case.exe
+  TARGET_IMPLIB = lib02_switch_case.dll.a
+  TARGET_PDB = 02_switch_case.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 03_for_loop
+
+
+#############################################
+# Order-only phony target for 03_for_loop
+
+build cmake_object_order_depends_target_03_for_loop: phony || CMakeFiles/03_for_loop.dir
+
+build CMakeFiles/03_for_loop.dir/chapter03_seqcontrol/03_for_loop.c.obj: C_COMPILER__03_for_loop_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/03_for_loop.c || cmake_object_order_depends_target_03_for_loop
+  DEP_FILE = CMakeFiles\03_for_loop.dir\chapter03_seqcontrol\03_for_loop.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\03_for_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles\03_for_loop.dir\chapter03_seqcontrol
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 03_for_loop
+
+
+#############################################
+# Link the executable 03_for_loop.exe
+
+build 03_for_loop.exe: C_EXECUTABLE_LINKER__03_for_loop_Debug CMakeFiles/03_for_loop.dir/chapter03_seqcontrol/03_for_loop.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\03_for_loop.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03_for_loop.exe
+  TARGET_IMPLIB = lib03_for_loop.dll.a
+  TARGET_PDB = 03_for_loop.exe.dbg
 
 
 #############################################
@@ -260,6 +539,20 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 01_HelloWord: phony 01_HelloWord.exe
 
+build 01_if_else: phony 01_if_else.exe
+
+build 02_switch_case: phony 02_switch_case.exe
+
+build 03_for_loop: phony 03_for_loop.exe
+
+build 04_Logical_operators: phony 04_Logical_operators.exe
+
+build 05_Bitwise_operators: phony 05_Bitwise_operators.exe
+
+build 12_Conditional_operators: phony 12_Conditional_operators.exe
+
+build 13_sizeof: phony 13_sizeof.exe
+
 build C_project: phony C_project.exe
 
 # =============================================================================
@@ -270,7 +563,7 @@ build C_project: phony C_project.exe
 #############################################
 # Folder: D:/C_LEARN/C_project/cmake-build-debug
 
-build all: phony C_project.exe 01_HelloWord.exe
+build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe
 
 # =============================================================================
 # Built-in targets

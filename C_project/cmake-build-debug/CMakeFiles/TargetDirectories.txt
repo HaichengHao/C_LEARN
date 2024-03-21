@@ -1,4 +1,11 @@
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/C_project.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/01_HelloWord.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/04_Logical_operators.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/05_Bitwise_operators.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/12_Conditional_operators.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/13_sizeof.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/01_if_else.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/02_switch_case.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/03_for_loop.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

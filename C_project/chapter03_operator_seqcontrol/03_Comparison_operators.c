@@ -18,20 +18,57 @@
     - 比较运算符“`==`”不能误写成“`=`”
  */
 //比较的结果是布尔类型，1真0假
-#include <stdio.h>
-int main(){
-    int a = 10;
-    int b = 20;
-    printf("%d\n",a<b);
-    printf("%d\n",a>b);
-//    注意 == 和 = 的区别
-    int c = 0;
-    if(c == 0){
-        printf("c = 0\n");
-    } else{
-        printf("c = %d\n",c);
-    }
-    return 0;
-}
+//#include <stdio.h>
+//int main(){
+//    int a = 10;
+//    int b = 20;
+//    printf("%d\n",a<b);
+//    printf("%d\n",a>b);
+////    注意 == 和 = 的区别
+//    int c = 0;
+//    if(c == 0){
+//        printf("c = 0\n");
+//    } else{
+//        printf("c = %d\n",c);
+//    }
+//    return 0;
+//}
 //1
 //0
+
+//**短路现象**
+//
+//- &&：a && b
+//  - 当 a 为假(或0)时，因为a && b 结果必定为 0，所以不再执行表达式 b
+//  - 当 a 为真(非0)时，因为a && b 结果不确定，所以会继续求解表达式b
+
+
+
+//注意:
+//#include <stdio.h>
+//int main(){
+//    int m3 = 10;
+//    if(1<m3<5){
+//        printf("北京欢迎您!");
+//    }else{
+//        printf("南京欢迎您");
+//    }
+//
+//    return 0;
+//}
+
+//我们可能会认为会输出南京欢迎您，其实不然，因为 1<m3 为 True 即为1
+//那么 1 < 5，所以会输出北京欢迎您
+//所以说，在c语言中，不要使用连续的比较操作，所以推荐使用逻辑运算符
+//#include <stdio.h>
+//int main(){
+//    int m3 = 10;
+//    if(1<m3 && m3 <5){
+//        printf("北京欢迎您!");
+//    }else{
+//        printf("南京欢迎您");
+//    }
+//
+//    return 0;
+//}
+//这样的话会输出南京欢迎您

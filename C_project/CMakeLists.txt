@@ -28,4 +28,20 @@ add_executable(01_HelloWord chapter01/01_HelloWord.c
         chapter03_operator_seqcontrol/01_operator.c
         chapter03_operator_seqcontrol/02_Assignment_operators.c
         chapter03_operator_seqcontrol/03_Comparison_operators.c
+        chapter03_operator_seqcontrol/04_Logical_operators.c
+        chapter03_operator_seqcontrol/05_Bitwise_operators.c
+        chapter02/12_Conditional_operators.c
+        "chapter02/13_sizeof.c"
+        chapter03_seqcontrol/01_if_else.c
+        chapter03_seqcontrol/02_switch_case.c
+        chapter03_seqcontrol/03_for_loop.c
+        chapter03_seqcontrol/04_while_loop.c
 )
+
+add_executable(04_Logical_operators chapter03_operator_seqcontrol/04_Logical_operators.c)
+add_executable(05_Bitwise_operators chapter03_operator_seqcontrol/05_Bitwise_operators.c)
+add_executable(12_Conditional_operators chapter02/12_Conditional_operators.c)
+add_executable(13_sizeof chapter02/13_sizeof.c)
+add_executable(01_if_else chapter03_seqcontrol/01_if_else.c)
+add_executable(02_switch_case chapter03_seqcontrol/02_switch_case.c)
+add_executable(03_for_loop chapter03_seqcontrol/03_for_loop.c)
