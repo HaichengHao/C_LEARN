@@ -7,5 +7,10 @@ D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/13_sizeof.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/01_if_else.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/02_switch_case.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/03_for_loop.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/04_while_loop.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/05_do_while.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/06_infinity_loop.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/07_Nested_loops.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/08_break_continue_detail.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

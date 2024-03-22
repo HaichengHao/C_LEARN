@@ -36,6 +36,11 @@ add_executable(01_HelloWord chapter01/01_HelloWord.c
         chapter03_seqcontrol/02_switch_case.c
         chapter03_seqcontrol/03_for_loop.c
         chapter03_seqcontrol/04_while_loop.c
+        chapter03_seqcontrol/05_do_while.c
+        chapter03_seqcontrol/06_infinity_loop.c
+        chapter03_seqcontrol/07_Nested_loops.c
+        chapter03_seqcontrol/08_break_continue_detail.c
+        chapter03_seqcontrol/09_goto_label.c
 )
 
 add_executable(04_Logical_operators chapter03_operator_seqcontrol/04_Logical_operators.c)
@@ -45,3 +50,8 @@ add_executable(13_sizeof chapter02/13_sizeof.c)
 add_executable(01_if_else chapter03_seqcontrol/01_if_else.c)
 add_executable(02_switch_case chapter03_seqcontrol/02_switch_case.c)
 add_executable(03_for_loop chapter03_seqcontrol/03_for_loop.c)
+add_executable(04_while_loop chapter03_seqcontrol/04_while_loop.c)
+add_executable(05_do_while chapter03_seqcontrol/05_do_while.c)
+add_executable(06_infinity_loop chapter03_seqcontrol/06_infinity_loop.c)
+add_executable(07_Nested_loops chapter03_seqcontrol/07_Nested_loops.c)
+add_executable(08_break_continue_detail chapter03_seqcontrol/08_break_continue_detail.c)

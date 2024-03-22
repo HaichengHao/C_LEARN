@@ -14,6 +14,10 @@
     <file url="file://$PROJECT_DIR$/chapter03_seqcontrol/01_if_else.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter03_seqcontrol/02_switch_case.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter03_seqcontrol/03_for_loop.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03_seqcontrol/04_while_loop.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03_seqcontrol/05_do_while.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03_seqcontrol/06_infinity_loop.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03_seqcontrol/08_break_continue_detail.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter03_运算符与流程控制/01_运算符(operator).c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
