@@ -745,6 +745,78 @@ build 09_goto_label.exe: C_EXECUTABLE_LINKER__09_goto_label_Debug CMakeFiles/09_
   TARGET_IMPLIB = lib09_goto_label.dll.a
   TARGET_PDB = 09_goto_label.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 01_definition_of_a_one_dimensional_arry
+
+
+#############################################
+# Order-only phony target for 01_definition_of_a_one_dimensional_arry
+
+build cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry: phony || CMakeFiles/01_definition_of_a_one_dimensional_arry.dir
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/01_definition_of_a_one_dimensional_arry.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array\01_definition_of_a_one_dimensional_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array\02_othermethod_of_def_one_dimensional_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 01_definition_of_a_one_dimensional_arry
+
+
+#############################################
+# Link the executable 01_definition_of_a_one_dimensional_arry.exe
+
+build 01_definition_of_a_one_dimensional_arry.exe: C_EXECUTABLE_LINKER__01_definition_of_a_one_dimensional_arry_Debug CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 01_definition_of_a_one_dimensional_arry.exe
+  TARGET_IMPLIB = lib01_definition_of_a_one_dimensional_arry.dll.a
+  TARGET_PDB = 01_definition_of_a_one_dimensional_arry.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 02_othermethod_of_def_one_dimensional_arry
+
+
+#############################################
+# Order-only phony target for 02_othermethod_of_def_one_dimensional_arry
+
+build cmake_object_order_depends_target_02_othermethod_of_def_one_dimensional_arry: phony || CMakeFiles/02_othermethod_of_def_one_dimensional_arry.dir
+
+build CMakeFiles/02_othermethod_of_def_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj: C_COMPILER__02_othermethod_of_def_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c || cmake_object_order_depends_target_02_othermethod_of_def_one_dimensional_arry
+  DEP_FILE = CMakeFiles\02_othermethod_of_def_one_dimensional_arry.dir\chapter04_array\02_othermethod_of_def_one_dimensional_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\02_othermethod_of_def_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\02_othermethod_of_def_one_dimensional_arry.dir\chapter04_array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 02_othermethod_of_def_one_dimensional_arry
+
+
+#############################################
+# Link the executable 02_othermethod_of_def_one_dimensional_arry.exe
+
+build 02_othermethod_of_def_one_dimensional_arry.exe: C_EXECUTABLE_LINKER__02_othermethod_of_def_one_dimensional_arry_Debug CMakeFiles/02_othermethod_of_def_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\02_othermethod_of_def_one_dimensional_arry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 02_othermethod_of_def_one_dimensional_arry.exe
+  TARGET_IMPLIB = lib02_othermethod_of_def_one_dimensional_arry.dll.a
+  TARGET_PDB = 02_othermethod_of_def_one_dimensional_arry.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -773,7 +845,11 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 01_HelloWord: phony 01_HelloWord.exe
 
+build 01_definition_of_a_one_dimensional_arry: phony 01_definition_of_a_one_dimensional_arry.exe
+
 build 01_if_else: phony 01_if_else.exe
+
+build 02_othermethod_of_def_one_dimensional_arry: phony 02_othermethod_of_def_one_dimensional_arry.exe
 
 build 02_switch_case: phony 02_switch_case.exe
 
@@ -809,7 +885,7 @@ build C_project: phony C_project.exe
 #############################################
 # Folder: D:/C_LEARN/C_project/cmake-build-debug
 
-build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe
+build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe 01_definition_of_a_one_dimensional_arry.exe 02_othermethod_of_def_one_dimensional_arry.exe
 
 # =============================================================================
 # Built-in targets

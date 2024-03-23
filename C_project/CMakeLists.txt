@@ -57,3 +57,6 @@ add_executable(06_infinity_loop chapter03_seqcontrol/06_infinity_loop.c)
 add_executable(07_Nested_loops chapter03_seqcontrol/07_Nested_loops.c)
 add_executable(08_break_continue_detail chapter03_seqcontrol/08_break_continue_detail.c)
 add_executable(09_goto_label chapter03_seqcontrol/09_goto_label.c)
+add_executable(01_definition_of_a_one_dimensional_arry chapter04_array/01_definition_of_a_one_dimensional_arry.c
+        chapter04_array/02_othermethod_of_def_one_dimensional_arry.c)
+add_executable(02_othermethod_of_def_one_dimensional_arry chapter04_array/02_othermethod_of_def_one_dimensional_arry.c)
