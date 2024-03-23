@@ -1,3 +1,42 @@
-ï»¿//
-// Created by éƒæµ·ç¨‹ on 2024/3/22.
 //
+// Created by ºÂº£³Ì on 2024/3/22.
+//
+/*
+ * Ö´ĞĞ goto Óï¾äºó£¬³ÌĞò½«Ìø×ªµ½Ö¸¶¨±êºÅ´¦Ö´ĞĞ¡£
+ * ÕâÑù¿ÉÒÔËæÒâ½«¿ØÖÆ×ªÒÆµ½³ÌĞòÖĞµÄÈÎÒâÒ»ÌõÓï¾äÉÏ£¬
+ * È»ºóÖ´ĞĞËü¡£*/
+
+
+//Ïàµ±ÓÚÊÇËÀÑ­»·
+//#include <stdio.h>
+//
+//int main(){
+//    label1:printf("hello world from lb1\n");
+//    label2:printf("hello world from lb2\n");
+//    label3:printf("hello world from lb3\n");
+//
+//    goto label2;
+//
+//    return 0;
+//}
+
+//Â¼ÈëÑ§Éú³É¼¨£¬²¢¼ÆËãÑ§ÉúµÄÆ½¾ù·Ö¡£µ±ÊäÈë-1Ê±³ÌĞò½áÊø¡£
+#include <stdio.h>
+int main(){
+    float score;
+    float sum=0.0;
+    int count=1;
+//    int i=0;
+    next:printf("ÇëÊäÈëµÚ%dÑ§Éú³É¼¨(ÊäÈë-1±íÊ¾½áÊø)>>",count);
+    scanf("%f",&score);
+    if(score!=-1){
+        sum+=score;
+        count++;
+//        i++;
+        goto next;
+    }
+    float avg_score = sum/(count-1);
+    printf("%d¸öÑ§ÉúµÄÆ½¾ù³É¼¨ÊÇ%.2f",count-1,avg_score);
+
+    return 0;
+}

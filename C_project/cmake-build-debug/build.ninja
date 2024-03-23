@@ -292,6 +292,12 @@ build CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/09_goto_label.c.obj: C_CO
   OBJECT_DIR = CMakeFiles\01_HelloWord.dir
   OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter03_seqcontrol
 
+build CMakeFiles/01_HelloWord.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj: C_COMPILER__01_HelloWord_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/01_definition_of_a_one_dimensional_arry.c || cmake_object_order_depends_target_01_HelloWord
+  DEP_FILE = CMakeFiles\01_HelloWord.dir\chapter04_array\01_definition_of_a_one_dimensional_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_HelloWord.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_HelloWord.dir\chapter04_array
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 01_HelloWord
@@ -300,7 +306,7 @@ build CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/09_goto_label.c.obj: C_CO
 #############################################
 # Link the executable 01_HelloWord.exe
 
-build 01_HelloWord.exe: C_EXECUTABLE_LINKER__01_HelloWord_Debug CMakeFiles/01_HelloWord.dir/chapter01/01_HelloWord.c.obj CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj CMakeFiles/01_HelloWord.dir/chapter01/04_printf实现细节.c.obj CMakeFiles/01_HelloWord.dir/chapter02/01_标识符.c.obj CMakeFiles/01_HelloWord.dir/chapter02/02变量的定义与分类.c.obj CMakeFiles/01_HelloWord.dir/chapter02/03_常见整型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/04_常见浮点型的使用.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/01_1st.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/02_变量定义.c.obj CMakeFiles/01_HelloWord.dir/chapter02/05_字符类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/06_bool类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/07_变量间的运算规则.c.obj CMakeFiles/01_HelloWord.dir/chapter02/08_常量.c.obj CMakeFiles/01_HelloWord.dir/chapter02/09_输入输出函数.c.obj CMakeFiles/01_HelloWord.dir/chapter02/10_进制.c.obj CMakeFiles/01_HelloWord.dir/chapter02/11_原反补码.c.obj CMakeFiles/01_HelloWord.dir/chapter02/demo.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/01_operator.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/02_Assignment_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/03_Comparison_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/04_Logical_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/05_Bitwise_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter02/12_Conditional_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter02/13_sizeof.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/01_if_else.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/02_switch_case.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/03_for_loop.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/04_while_loop.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/05_do_while.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/06_infinity_loop.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/07_Nested_loops.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/08_break_continue_detail.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/09_goto_label.c.obj
+build 01_HelloWord.exe: C_EXECUTABLE_LINKER__01_HelloWord_Debug CMakeFiles/01_HelloWord.dir/chapter01/01_HelloWord.c.obj CMakeFiles/01_HelloWord.dir/chapter01/02_Comment.c.obj CMakeFiles/01_HelloWord.dir/chapter01/03_helloworld的剖析.c.obj CMakeFiles/01_HelloWord.dir/chapter01/04_printf实现细节.c.obj CMakeFiles/01_HelloWord.dir/chapter02/01_标识符.c.obj CMakeFiles/01_HelloWord.dir/chapter02/02变量的定义与分类.c.obj CMakeFiles/01_HelloWord.dir/chapter02/03_常见整型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/04_常见浮点型的使用.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/01_1st.c.obj CMakeFiles/01_HelloWord.dir/C_BOOK/02_变量定义.c.obj CMakeFiles/01_HelloWord.dir/chapter02/05_字符类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/06_bool类型.c.obj CMakeFiles/01_HelloWord.dir/chapter02/07_变量间的运算规则.c.obj CMakeFiles/01_HelloWord.dir/chapter02/08_常量.c.obj CMakeFiles/01_HelloWord.dir/chapter02/09_输入输出函数.c.obj CMakeFiles/01_HelloWord.dir/chapter02/10_进制.c.obj CMakeFiles/01_HelloWord.dir/chapter02/11_原反补码.c.obj CMakeFiles/01_HelloWord.dir/chapter02/demo.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/01_operator.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/02_Assignment_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/03_Comparison_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/04_Logical_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter03_operator_seqcontrol/05_Bitwise_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter02/12_Conditional_operators.c.obj CMakeFiles/01_HelloWord.dir/chapter02/13_sizeof.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/01_if_else.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/02_switch_case.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/03_for_loop.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/04_while_loop.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/05_do_while.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/06_infinity_loop.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/07_Nested_loops.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/08_break_continue_detail.c.obj CMakeFiles/01_HelloWord.dir/chapter03_seqcontrol/09_goto_label.c.obj CMakeFiles/01_HelloWord.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_HelloWord.dir
@@ -706,6 +712,39 @@ build 08_break_continue_detail.exe: C_EXECUTABLE_LINKER__08_break_continue_detai
   TARGET_IMPLIB = lib08_break_continue_detail.dll.a
   TARGET_PDB = 08_break_continue_detail.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 09_goto_label
+
+
+#############################################
+# Order-only phony target for 09_goto_label
+
+build cmake_object_order_depends_target_09_goto_label: phony || CMakeFiles/09_goto_label.dir
+
+build CMakeFiles/09_goto_label.dir/chapter03_seqcontrol/09_goto_label.c.obj: C_COMPILER__09_goto_label_unscanned_Debug D$:/C_LEARN/C_project/chapter03_seqcontrol/09_goto_label.c || cmake_object_order_depends_target_09_goto_label
+  DEP_FILE = CMakeFiles\09_goto_label.dir\chapter03_seqcontrol\09_goto_label.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\09_goto_label.dir
+  OBJECT_FILE_DIR = CMakeFiles\09_goto_label.dir\chapter03_seqcontrol
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 09_goto_label
+
+
+#############################################
+# Link the executable 09_goto_label.exe
+
+build 09_goto_label.exe: C_EXECUTABLE_LINKER__09_goto_label_Debug CMakeFiles/09_goto_label.dir/chapter03_seqcontrol/09_goto_label.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\09_goto_label.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 09_goto_label.exe
+  TARGET_IMPLIB = lib09_goto_label.dll.a
+  TARGET_PDB = 09_goto_label.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -754,6 +793,8 @@ build 07_Nested_loops: phony 07_Nested_loops.exe
 
 build 08_break_continue_detail: phony 08_break_continue_detail.exe
 
+build 09_goto_label: phony 09_goto_label.exe
+
 build 12_Conditional_operators: phony 12_Conditional_operators.exe
 
 build 13_sizeof: phony 13_sizeof.exe
@@ -768,7 +809,7 @@ build C_project: phony C_project.exe
 #############################################
 # Folder: D:/C_LEARN/C_project/cmake-build-debug
 
-build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe
+build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe
 
 # =============================================================================
 # Built-in targets

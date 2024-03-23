@@ -41,6 +41,7 @@ add_executable(01_HelloWord chapter01/01_HelloWord.c
         chapter03_seqcontrol/07_Nested_loops.c
         chapter03_seqcontrol/08_break_continue_detail.c
         chapter03_seqcontrol/09_goto_label.c
+        chapter04_array/01_definition_of_a_one_dimensional_arry.c
 )
 
 add_executable(04_Logical_operators chapter03_operator_seqcontrol/04_Logical_operators.c)
@@ -55,3 +56,4 @@ add_executable(05_do_while chapter03_seqcontrol/05_do_while.c)
 add_executable(06_infinity_loop chapter03_seqcontrol/06_infinity_loop.c)
 add_executable(07_Nested_loops chapter03_seqcontrol/07_Nested_loops.c)
 add_executable(08_break_continue_detail chapter03_seqcontrol/08_break_continue_detail.c)
+add_executable(09_goto_label chapter03_seqcontrol/09_goto_label.c)
