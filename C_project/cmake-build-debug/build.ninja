@@ -766,6 +766,36 @@ build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_
   OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
   OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
 
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/03_Arry_exercise.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/03_Arry_exercise.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array\03_Arry_exercise.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/04_arry_copy.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/04_arry_copy.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array\04_arry_copy.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/05_reverse_arry.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/05_reverse_arry.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array\05_reverse_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/06_char_arry_and_string.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/06_char_arry_and_string.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array\06_char_arry_and_string.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/07_multi_dimensional_arry.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/07_multi_dimensional_arry.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array\07_multi_dimensional_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 01_definition_of_a_one_dimensional_arry
@@ -774,7 +804,7 @@ build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_
 #############################################
 # Link the executable 01_definition_of_a_one_dimensional_arry.exe
 
-build 01_definition_of_a_one_dimensional_arry.exe: C_EXECUTABLE_LINKER__01_definition_of_a_one_dimensional_arry_Debug CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj
+build 01_definition_of_a_one_dimensional_arry.exe: C_EXECUTABLE_LINKER__01_definition_of_a_one_dimensional_arry_Debug CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/03_Arry_exercise.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/04_arry_copy.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/05_reverse_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/06_char_arry_and_string.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/07_multi_dimensional_arry.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
@@ -817,6 +847,171 @@ build 02_othermethod_of_def_one_dimensional_arry.exe: C_EXECUTABLE_LINKER__02_ot
   TARGET_IMPLIB = lib02_othermethod_of_def_one_dimensional_arry.dll.a
   TARGET_PDB = 02_othermethod_of_def_one_dimensional_arry.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 03_Arry_exercise
+
+
+#############################################
+# Order-only phony target for 03_Arry_exercise
+
+build cmake_object_order_depends_target_03_Arry_exercise: phony || CMakeFiles/03_Arry_exercise.dir
+
+build CMakeFiles/03_Arry_exercise.dir/chapter04_array/03_Arry_exercise.c.obj: C_COMPILER__03_Arry_exercise_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/03_Arry_exercise.c || cmake_object_order_depends_target_03_Arry_exercise
+  DEP_FILE = CMakeFiles\03_Arry_exercise.dir\chapter04_array\03_Arry_exercise.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\03_Arry_exercise.dir
+  OBJECT_FILE_DIR = CMakeFiles\03_Arry_exercise.dir\chapter04_array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 03_Arry_exercise
+
+
+#############################################
+# Link the executable 03_Arry_exercise.exe
+
+build 03_Arry_exercise.exe: C_EXECUTABLE_LINKER__03_Arry_exercise_Debug CMakeFiles/03_Arry_exercise.dir/chapter04_array/03_Arry_exercise.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\03_Arry_exercise.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03_Arry_exercise.exe
+  TARGET_IMPLIB = lib03_Arry_exercise.dll.a
+  TARGET_PDB = 03_Arry_exercise.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 04_arry_copy
+
+
+#############################################
+# Order-only phony target for 04_arry_copy
+
+build cmake_object_order_depends_target_04_arry_copy: phony || CMakeFiles/04_arry_copy.dir
+
+build CMakeFiles/04_arry_copy.dir/chapter04_array/04_arry_copy.c.obj: C_COMPILER__04_arry_copy_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/04_arry_copy.c || cmake_object_order_depends_target_04_arry_copy
+  DEP_FILE = CMakeFiles\04_arry_copy.dir\chapter04_array\04_arry_copy.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\04_arry_copy.dir
+  OBJECT_FILE_DIR = CMakeFiles\04_arry_copy.dir\chapter04_array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 04_arry_copy
+
+
+#############################################
+# Link the executable 04_arry_copy.exe
+
+build 04_arry_copy.exe: C_EXECUTABLE_LINKER__04_arry_copy_Debug CMakeFiles/04_arry_copy.dir/chapter04_array/04_arry_copy.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\04_arry_copy.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 04_arry_copy.exe
+  TARGET_IMPLIB = lib04_arry_copy.dll.a
+  TARGET_PDB = 04_arry_copy.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 05_reverse_arry
+
+
+#############################################
+# Order-only phony target for 05_reverse_arry
+
+build cmake_object_order_depends_target_05_reverse_arry: phony || CMakeFiles/05_reverse_arry.dir
+
+build CMakeFiles/05_reverse_arry.dir/chapter04_array/05_reverse_arry.c.obj: C_COMPILER__05_reverse_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/05_reverse_arry.c || cmake_object_order_depends_target_05_reverse_arry
+  DEP_FILE = CMakeFiles\05_reverse_arry.dir\chapter04_array\05_reverse_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\05_reverse_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\05_reverse_arry.dir\chapter04_array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 05_reverse_arry
+
+
+#############################################
+# Link the executable 05_reverse_arry.exe
+
+build 05_reverse_arry.exe: C_EXECUTABLE_LINKER__05_reverse_arry_Debug CMakeFiles/05_reverse_arry.dir/chapter04_array/05_reverse_arry.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\05_reverse_arry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 05_reverse_arry.exe
+  TARGET_IMPLIB = lib05_reverse_arry.dll.a
+  TARGET_PDB = 05_reverse_arry.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 06_char_arry_and_string
+
+
+#############################################
+# Order-only phony target for 06_char_arry_and_string
+
+build cmake_object_order_depends_target_06_char_arry_and_string: phony || CMakeFiles/06_char_arry_and_string.dir
+
+build CMakeFiles/06_char_arry_and_string.dir/chapter04_array/06_char_arry_and_string.c.obj: C_COMPILER__06_char_arry_and_string_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/06_char_arry_and_string.c || cmake_object_order_depends_target_06_char_arry_and_string
+  DEP_FILE = CMakeFiles\06_char_arry_and_string.dir\chapter04_array\06_char_arry_and_string.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\06_char_arry_and_string.dir
+  OBJECT_FILE_DIR = CMakeFiles\06_char_arry_and_string.dir\chapter04_array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 06_char_arry_and_string
+
+
+#############################################
+# Link the executable 06_char_arry_and_string.exe
+
+build 06_char_arry_and_string.exe: C_EXECUTABLE_LINKER__06_char_arry_and_string_Debug CMakeFiles/06_char_arry_and_string.dir/chapter04_array/06_char_arry_and_string.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\06_char_arry_and_string.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 06_char_arry_and_string.exe
+  TARGET_IMPLIB = lib06_char_arry_and_string.dll.a
+  TARGET_PDB = 06_char_arry_and_string.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 07_multi_dimensional_arry
+
+
+#############################################
+# Order-only phony target for 07_multi_dimensional_arry
+
+build cmake_object_order_depends_target_07_multi_dimensional_arry: phony || CMakeFiles/07_multi_dimensional_arry.dir
+
+build CMakeFiles/07_multi_dimensional_arry.dir/chapter04_array/07_multi_dimensional_arry.c.obj: C_COMPILER__07_multi_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter04_array/07_multi_dimensional_arry.c || cmake_object_order_depends_target_07_multi_dimensional_arry
+  DEP_FILE = CMakeFiles\07_multi_dimensional_arry.dir\chapter04_array\07_multi_dimensional_arry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\07_multi_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\07_multi_dimensional_arry.dir\chapter04_array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 07_multi_dimensional_arry
+
+
+#############################################
+# Link the executable 07_multi_dimensional_arry.exe
+
+build 07_multi_dimensional_arry.exe: C_EXECUTABLE_LINKER__07_multi_dimensional_arry_Debug CMakeFiles/07_multi_dimensional_arry.dir/chapter04_array/07_multi_dimensional_arry.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\07_multi_dimensional_arry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 07_multi_dimensional_arry.exe
+  TARGET_IMPLIB = lib07_multi_dimensional_arry.dll.a
+  TARGET_PDB = 07_multi_dimensional_arry.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -853,9 +1048,13 @@ build 02_othermethod_of_def_one_dimensional_arry: phony 02_othermethod_of_def_on
 
 build 02_switch_case: phony 02_switch_case.exe
 
+build 03_Arry_exercise: phony 03_Arry_exercise.exe
+
 build 03_for_loop: phony 03_for_loop.exe
 
 build 04_Logical_operators: phony 04_Logical_operators.exe
+
+build 04_arry_copy: phony 04_arry_copy.exe
 
 build 04_while_loop: phony 04_while_loop.exe
 
@@ -863,9 +1062,15 @@ build 05_Bitwise_operators: phony 05_Bitwise_operators.exe
 
 build 05_do_while: phony 05_do_while.exe
 
+build 05_reverse_arry: phony 05_reverse_arry.exe
+
+build 06_char_arry_and_string: phony 06_char_arry_and_string.exe
+
 build 06_infinity_loop: phony 06_infinity_loop.exe
 
 build 07_Nested_loops: phony 07_Nested_loops.exe
+
+build 07_multi_dimensional_arry: phony 07_multi_dimensional_arry.exe
 
 build 08_break_continue_detail: phony 08_break_continue_detail.exe
 
@@ -885,7 +1090,7 @@ build C_project: phony C_project.exe
 #############################################
 # Folder: D:/C_LEARN/C_project/cmake-build-debug
 
-build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe 01_definition_of_a_one_dimensional_arry.exe 02_othermethod_of_def_one_dimensional_arry.exe
+build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe 01_definition_of_a_one_dimensional_arry.exe 02_othermethod_of_def_one_dimensional_arry.exe 03_Arry_exercise.exe 04_arry_copy.exe 05_reverse_arry.exe 06_char_arry_and_string.exe 07_multi_dimensional_arry.exe
 
 # =============================================================================
 # Built-in targets

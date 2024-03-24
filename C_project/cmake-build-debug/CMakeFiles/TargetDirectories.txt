@@ -15,5 +15,10 @@ D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/08_break_continue_detail.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/09_goto_label.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/01_definition_of_a_one_dimensional_arry.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/02_othermethod_of_def_one_dimensional_arry.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/03_Arry_exercise.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/04_arry_copy.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/05_reverse_arry.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/06_char_arry_and_string.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/07_multi_dimensional_arry.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
