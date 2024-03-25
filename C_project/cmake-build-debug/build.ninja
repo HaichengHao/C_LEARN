@@ -796,6 +796,54 @@ build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/07_
   OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
   OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter04_array
 
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/01_pointer_overview.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/01_pointer_overview.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\01_pointer_overview.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/02_Addressing_operator.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/02_Addressing_operator.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\02_Addressing_operator.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/03_Value_operator.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/03_Value_operator.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\03_Value_operator.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/04_Common_operations_for_pointers.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/04_Common_operations_for_pointers.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\04_Common_operations_for_pointers.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/05_zhizhendezizengzijian.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/05_zhizhendezizengzijian.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\05_zhizhendezizengzijian.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/06_sametype_pointer_minus.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/06_sametype_pointer_minus.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\06_sametype_pointer_minus.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/07_wild_pointer.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/07_wild_pointer.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\07_wild_pointer.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
+build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/07multipointer.c.obj: C_COMPILER__01_definition_of_a_one_dimensional_arry_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/07multipointer.c || cmake_object_order_depends_target_01_definition_of_a_one_dimensional_arry
+  DEP_FILE = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer\07multipointer.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir\chapter05_pointer
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 01_definition_of_a_one_dimensional_arry
@@ -804,7 +852,7 @@ build CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/07_
 #############################################
 # Link the executable 01_definition_of_a_one_dimensional_arry.exe
 
-build 01_definition_of_a_one_dimensional_arry.exe: C_EXECUTABLE_LINKER__01_definition_of_a_one_dimensional_arry_Debug CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/03_Arry_exercise.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/04_arry_copy.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/05_reverse_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/06_char_arry_and_string.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/07_multi_dimensional_arry.c.obj
+build 01_definition_of_a_one_dimensional_arry.exe: C_EXECUTABLE_LINKER__01_definition_of_a_one_dimensional_arry_Debug CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/01_definition_of_a_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/02_othermethod_of_def_one_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/03_Arry_exercise.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/04_arry_copy.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/05_reverse_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/06_char_arry_and_string.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter04_array/07_multi_dimensional_arry.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/01_pointer_overview.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/02_Addressing_operator.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/03_Value_operator.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/04_Common_operations_for_pointers.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/05_zhizhendezizengzijian.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/06_sametype_pointer_minus.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/07_wild_pointer.c.obj CMakeFiles/01_definition_of_a_one_dimensional_arry.dir/chapter05_pointer/07multipointer.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_definition_of_a_one_dimensional_arry.dir
@@ -1012,6 +1060,237 @@ build 07_multi_dimensional_arry.exe: C_EXECUTABLE_LINKER__07_multi_dimensional_a
   TARGET_IMPLIB = lib07_multi_dimensional_arry.dll.a
   TARGET_PDB = 07_multi_dimensional_arry.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 01_pointer_overview
+
+
+#############################################
+# Order-only phony target for 01_pointer_overview
+
+build cmake_object_order_depends_target_01_pointer_overview: phony || CMakeFiles/01_pointer_overview.dir
+
+build CMakeFiles/01_pointer_overview.dir/chapter05_pointer/01_pointer_overview.c.obj: C_COMPILER__01_pointer_overview_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/01_pointer_overview.c || cmake_object_order_depends_target_01_pointer_overview
+  DEP_FILE = CMakeFiles\01_pointer_overview.dir\chapter05_pointer\01_pointer_overview.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_pointer_overview.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_pointer_overview.dir\chapter05_pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 01_pointer_overview
+
+
+#############################################
+# Link the executable 01_pointer_overview.exe
+
+build 01_pointer_overview.exe: C_EXECUTABLE_LINKER__01_pointer_overview_Debug CMakeFiles/01_pointer_overview.dir/chapter05_pointer/01_pointer_overview.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\01_pointer_overview.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 01_pointer_overview.exe
+  TARGET_IMPLIB = lib01_pointer_overview.dll.a
+  TARGET_PDB = 01_pointer_overview.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 02_value_operator
+
+
+#############################################
+# Order-only phony target for 02_value_operator
+
+build cmake_object_order_depends_target_02_value_operator: phony || CMakeFiles/02_value_operator.dir
+
+build CMakeFiles/02_value_operator.dir/chapter05_pointer/02_Addressing_operator.c.obj: C_COMPILER__02_value_operator_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/02_Addressing_operator.c || cmake_object_order_depends_target_02_value_operator
+  DEP_FILE = CMakeFiles\02_value_operator.dir\chapter05_pointer\02_Addressing_operator.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\02_value_operator.dir
+  OBJECT_FILE_DIR = CMakeFiles\02_value_operator.dir\chapter05_pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 02_value_operator
+
+
+#############################################
+# Link the executable 02_value_operator.exe
+
+build 02_value_operator.exe: C_EXECUTABLE_LINKER__02_value_operator_Debug CMakeFiles/02_value_operator.dir/chapter05_pointer/02_Addressing_operator.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\02_value_operator.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 02_value_operator.exe
+  TARGET_IMPLIB = lib02_value_operator.dll.a
+  TARGET_PDB = 02_value_operator.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 03_Value_operator
+
+
+#############################################
+# Order-only phony target for 03_Value_operator
+
+build cmake_object_order_depends_target_03_Value_operator: phony || CMakeFiles/03_Value_operator.dir
+
+build CMakeFiles/03_Value_operator.dir/chapter05_pointer/03_Value_operator.c.obj: C_COMPILER__03_Value_operator_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/03_Value_operator.c || cmake_object_order_depends_target_03_Value_operator
+  DEP_FILE = CMakeFiles\03_Value_operator.dir\chapter05_pointer\03_Value_operator.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\03_Value_operator.dir
+  OBJECT_FILE_DIR = CMakeFiles\03_Value_operator.dir\chapter05_pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 03_Value_operator
+
+
+#############################################
+# Link the executable 03_Value_operator.exe
+
+build 03_Value_operator.exe: C_EXECUTABLE_LINKER__03_Value_operator_Debug CMakeFiles/03_Value_operator.dir/chapter05_pointer/03_Value_operator.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\03_Value_operator.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03_Value_operator.exe
+  TARGET_IMPLIB = lib03_Value_operator.dll.a
+  TARGET_PDB = 03_Value_operator.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 04_Common_operations_for_pointers
+
+
+#############################################
+# Order-only phony target for 04_Common_operations_for_pointers
+
+build cmake_object_order_depends_target_04_Common_operations_for_pointers: phony || CMakeFiles/04_Common_operations_for_pointers.dir
+
+build CMakeFiles/04_Common_operations_for_pointers.dir/chapter05_pointer/04_Common_operations_for_pointers.c.obj: C_COMPILER__04_Common_operations_for_pointers_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/04_Common_operations_for_pointers.c || cmake_object_order_depends_target_04_Common_operations_for_pointers
+  DEP_FILE = CMakeFiles\04_Common_operations_for_pointers.dir\chapter05_pointer\04_Common_operations_for_pointers.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\04_Common_operations_for_pointers.dir
+  OBJECT_FILE_DIR = CMakeFiles\04_Common_operations_for_pointers.dir\chapter05_pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 04_Common_operations_for_pointers
+
+
+#############################################
+# Link the executable 04_Common_operations_for_pointers.exe
+
+build 04_Common_operations_for_pointers.exe: C_EXECUTABLE_LINKER__04_Common_operations_for_pointers_Debug CMakeFiles/04_Common_operations_for_pointers.dir/chapter05_pointer/04_Common_operations_for_pointers.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\04_Common_operations_for_pointers.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 04_Common_operations_for_pointers.exe
+  TARGET_IMPLIB = lib04_Common_operations_for_pointers.dll.a
+  TARGET_PDB = 04_Common_operations_for_pointers.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 05_zhizhendezizengzijian
+
+
+#############################################
+# Order-only phony target for 05_zhizhendezizengzijian
+
+build cmake_object_order_depends_target_05_zhizhendezizengzijian: phony || CMakeFiles/05_zhizhendezizengzijian.dir
+
+build CMakeFiles/05_zhizhendezizengzijian.dir/chapter05_pointer/05_zhizhendezizengzijian.c.obj: C_COMPILER__05_zhizhendezizengzijian_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/05_zhizhendezizengzijian.c || cmake_object_order_depends_target_05_zhizhendezizengzijian
+  DEP_FILE = CMakeFiles\05_zhizhendezizengzijian.dir\chapter05_pointer\05_zhizhendezizengzijian.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\05_zhizhendezizengzijian.dir
+  OBJECT_FILE_DIR = CMakeFiles\05_zhizhendezizengzijian.dir\chapter05_pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 05_zhizhendezizengzijian
+
+
+#############################################
+# Link the executable 05_zhizhendezizengzijian.exe
+
+build 05_zhizhendezizengzijian.exe: C_EXECUTABLE_LINKER__05_zhizhendezizengzijian_Debug CMakeFiles/05_zhizhendezizengzijian.dir/chapter05_pointer/05_zhizhendezizengzijian.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\05_zhizhendezizengzijian.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 05_zhizhendezizengzijian.exe
+  TARGET_IMPLIB = lib05_zhizhendezizengzijian.dll.a
+  TARGET_PDB = 05_zhizhendezizengzijian.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 06_sametype_pointer_minus
+
+
+#############################################
+# Order-only phony target for 06_sametype_pointer_minus
+
+build cmake_object_order_depends_target_06_sametype_pointer_minus: phony || CMakeFiles/06_sametype_pointer_minus.dir
+
+build CMakeFiles/06_sametype_pointer_minus.dir/chapter05_pointer/06_sametype_pointer_minus.c.obj: C_COMPILER__06_sametype_pointer_minus_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/06_sametype_pointer_minus.c || cmake_object_order_depends_target_06_sametype_pointer_minus
+  DEP_FILE = CMakeFiles\06_sametype_pointer_minus.dir\chapter05_pointer\06_sametype_pointer_minus.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\06_sametype_pointer_minus.dir
+  OBJECT_FILE_DIR = CMakeFiles\06_sametype_pointer_minus.dir\chapter05_pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 06_sametype_pointer_minus
+
+
+#############################################
+# Link the executable 06_sametype_pointer_minus.exe
+
+build 06_sametype_pointer_minus.exe: C_EXECUTABLE_LINKER__06_sametype_pointer_minus_Debug CMakeFiles/06_sametype_pointer_minus.dir/chapter05_pointer/06_sametype_pointer_minus.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\06_sametype_pointer_minus.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 06_sametype_pointer_minus.exe
+  TARGET_IMPLIB = lib06_sametype_pointer_minus.dll.a
+  TARGET_PDB = 06_sametype_pointer_minus.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 07multipointer
+
+
+#############################################
+# Order-only phony target for 07multipointer
+
+build cmake_object_order_depends_target_07multipointer: phony || CMakeFiles/07multipointer.dir
+
+build CMakeFiles/07multipointer.dir/chapter05_pointer/07multipointer.c.obj: C_COMPILER__07multipointer_unscanned_Debug D$:/C_LEARN/C_project/chapter05_pointer/07multipointer.c || cmake_object_order_depends_target_07multipointer
+  DEP_FILE = CMakeFiles\07multipointer.dir\chapter05_pointer\07multipointer.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\07multipointer.dir
+  OBJECT_FILE_DIR = CMakeFiles\07multipointer.dir\chapter05_pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 07multipointer
+
+
+#############################################
+# Link the executable 07multipointer.exe
+
+build 07multipointer.exe: C_EXECUTABLE_LINKER__07multipointer_Debug CMakeFiles/07multipointer.dir/chapter05_pointer/07multipointer.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\07multipointer.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 07multipointer.exe
+  TARGET_IMPLIB = lib07multipointer.dll.a
+  TARGET_PDB = 07multipointer.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1044,13 +1323,21 @@ build 01_definition_of_a_one_dimensional_arry: phony 01_definition_of_a_one_dime
 
 build 01_if_else: phony 01_if_else.exe
 
+build 01_pointer_overview: phony 01_pointer_overview.exe
+
 build 02_othermethod_of_def_one_dimensional_arry: phony 02_othermethod_of_def_one_dimensional_arry.exe
 
 build 02_switch_case: phony 02_switch_case.exe
 
+build 02_value_operator: phony 02_value_operator.exe
+
 build 03_Arry_exercise: phony 03_Arry_exercise.exe
 
+build 03_Value_operator: phony 03_Value_operator.exe
+
 build 03_for_loop: phony 03_for_loop.exe
+
+build 04_Common_operations_for_pointers: phony 04_Common_operations_for_pointers.exe
 
 build 04_Logical_operators: phony 04_Logical_operators.exe
 
@@ -1064,13 +1351,19 @@ build 05_do_while: phony 05_do_while.exe
 
 build 05_reverse_arry: phony 05_reverse_arry.exe
 
+build 05_zhizhendezizengzijian: phony 05_zhizhendezizengzijian.exe
+
 build 06_char_arry_and_string: phony 06_char_arry_and_string.exe
 
 build 06_infinity_loop: phony 06_infinity_loop.exe
 
+build 06_sametype_pointer_minus: phony 06_sametype_pointer_minus.exe
+
 build 07_Nested_loops: phony 07_Nested_loops.exe
 
 build 07_multi_dimensional_arry: phony 07_multi_dimensional_arry.exe
+
+build 07multipointer: phony 07multipointer.exe
 
 build 08_break_continue_detail: phony 08_break_continue_detail.exe
 
@@ -1090,7 +1383,7 @@ build C_project: phony C_project.exe
 #############################################
 # Folder: D:/C_LEARN/C_project/cmake-build-debug
 
-build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe 01_definition_of_a_one_dimensional_arry.exe 02_othermethod_of_def_one_dimensional_arry.exe 03_Arry_exercise.exe 04_arry_copy.exe 05_reverse_arry.exe 06_char_arry_and_string.exe 07_multi_dimensional_arry.exe
+build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe 01_definition_of_a_one_dimensional_arry.exe 02_othermethod_of_def_one_dimensional_arry.exe 03_Arry_exercise.exe 04_arry_copy.exe 05_reverse_arry.exe 06_char_arry_and_string.exe 07_multi_dimensional_arry.exe 01_pointer_overview.exe 02_value_operator.exe 03_Value_operator.exe 04_Common_operations_for_pointers.exe 05_zhizhendezizengzijian.exe 06_sametype_pointer_minus.exe 07multipointer.exe
 
 # =============================================================================
 # Built-in targets

@@ -152,13 +152,80 @@
 //position:[1][0]
 
 //将一个二维数组行和列的元素互换，存到另一个二维数组中。
-#include <stdio.h>
+
+/*#include <stdio.h>
 int main(){
     int arr[3][4]={
             {3,5,8,0},
             {12,9,0,0},
             {7,0,6,4}
     };
+    int temp[4][3];
+//    遍历元素开始赋值
+    for (int i = 0;i<3;i++){
+        for(int j=0;j<4;j++){
+            temp[j][i]=arr[i][j];
+        }
 
+    }
+    for(int i=0;i<4;i++){
+        for(int j=0;j<3;j++){
+            printf("%d ",temp[i][j]);
+        }printf("\n");
+    }
     return 0;
 }
+ */
+//3 12 7
+//5 9 0
+//8 0 6
+//0 0 4
+
+//二维char型数组
+//
+//将"Apple"、"Orange"、"Grape"、"Pear"、"Peach"存储在数组中
+/*
+#include <stdio.h>
+#include <string.h>
+int main(){
+    char arr[][7]={"Apple","Orange","Grape","Pear","Peach"};
+    printf("%zd\n",sizeof(arr));
+    printf("%d", strlen(arr));
+    return 0;
+}*/
+//35 <--为什么是35，因为一个数组内按最长的那个串的长度为列，所以orange占6列，五个单词共30个空间，但是其余不够的长度也要补齐，所以Apple补1个，grape补1个，pear补2个，peach补1个，所以共35个
+//5
+
+//输出杨辉三角前十行
+
+#include <stdio.h>
+int main(){
+    int  arr[10][10];
+    for(int i=0;i<10;i++){
+        for(int j=0;j<=i;j++){
+            arr[i][0]=1;  //每一行的首元素为1
+            if(i==j){
+                arr[i][j]=1; //每一行的尾元素都是1
+            }else{  //其它非首尾元素都按照规律(等于上一行这一列的元素的前一列元素+上一行这一列的元素)
+                arr[i][j]=arr[i-1][j-1]+arr[i-1][j];
+            }
+        }
+    }
+    for(int i=0;i<10;i++){
+        for(int j=0;j<=i;j++){
+            printf("%d ",arr[i][j]);
+        }printf("\n");
+    }
+    return 0;
+}
+
+//1
+//1 1
+//1 2 1
+//1 3 3 1
+//1 4 6 4 1
+//1 5 10 10 5 1
+//1 6 15 20 15 6 1
+//1 7 21 35 35 21 7 1
+//1 8 28 56 70 56 28 8 1
+//1 9 36 84 126 126 84 36 9 1

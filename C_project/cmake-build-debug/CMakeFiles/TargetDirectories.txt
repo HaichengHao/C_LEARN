@@ -20,5 +20,12 @@ D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/04_arry_copy.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/05_reverse_arry.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/06_char_arry_and_string.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/07_multi_dimensional_arry.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/01_pointer_overview.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/02_value_operator.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/03_Value_operator.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/04_Common_operations_for_pointers.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/05_zhizhendezizengzijian.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/06_sametype_pointer_minus.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/07multipointer.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

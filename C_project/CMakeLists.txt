@@ -63,10 +63,27 @@ add_executable(01_definition_of_a_one_dimensional_arry chapter04_array/01_defini
         chapter04_array/04_arry_copy.c
         chapter04_array/05_reverse_arry.c
         chapter04_array/06_char_arry_and_string.c
-        chapter04_array/07_multi_dimensional_arry.c)
+        chapter04_array/07_multi_dimensional_arry.c
+        chapter05_pointer/01_pointer_overview.c
+        chapter05_pointer/02_Addressing_operator.c
+        chapter05_pointer/03_Value_operator.c
+        chapter05_pointer/04_Common_operations_for_pointers.c
+        chapter05_pointer/05_zhizhendezizengzijian.c
+        chapter05_pointer/06_sametype_pointer_minus.c
+        chapter05_pointer/07_wild_pointer.c
+        chapter05_pointer/07multipointer.c
+)
 add_executable(02_othermethod_of_def_one_dimensional_arry chapter04_array/02_othermethod_of_def_one_dimensional_arry.c)
 add_executable(03_Arry_exercise chapter04_array/03_Arry_exercise.c)
 add_executable(04_arry_copy chapter04_array/04_arry_copy.c)
 add_executable(05_reverse_arry chapter04_array/05_reverse_arry.c)
 add_executable(06_char_arry_and_string chapter04_array/06_char_arry_and_string.c)
 add_executable(07_multi_dimensional_arry chapter04_array/07_multi_dimensional_arry.c)
+add_executable(01_pointer_overview chapter05_pointer/01_pointer_overview.c)
+add_executable(02_value_operator chapter05_pointer/02_Addressing_operator.c)
+add_executable(03_Value_operator chapter05_pointer/03_Value_operator.c)
+add_executable(04_Common_operations_for_pointers chapter05_pointer/04_Common_operations_for_pointers.c)
+
+add_executable(05_zhizhendezizengzijian chapter05_pointer/05_zhizhendezizengzijian.c)
+add_executable(06_sametype_pointer_minus chapter05_pointer/06_sametype_pointer_minus.c)
+add_executable(07multipointer chapter05_pointer/07multipointer.c)
