@@ -72,6 +72,15 @@ add_executable(01_definition_of_a_one_dimensional_arry chapter04_array/01_defini
         chapter05_pointer/06_sametype_pointer_minus.c
         chapter05_pointer/07_wild_pointer.c
         chapter05_pointer/07multipointer.c
+        chapter05_pointer/08_pointer_and_arry.c
+        chapter05_pointer/08_2pointer_and_arry.c
+        chapter05_pointer/09Pointers_with_subscripts_and_the_use_of_array_names.c
+        chapter05_pointer/10Two_dimensional_arrays_and_pointers.c
+        chapter05_pointer/11_pointer_arry_and_arry_pointer.c
+        chapter05_pointer/12_char_arry_and_char_pointer_variable.c
+        chapter05_pointer/13_expression_of_str_arry.c
+        chapter05_pointer/14_ExTeNd.c
+        chapter06_function/01_declaration_of_function.c
 )
 add_executable(02_othermethod_of_def_one_dimensional_arry chapter04_array/02_othermethod_of_def_one_dimensional_arry.c)
 add_executable(03_Arry_exercise chapter04_array/03_Arry_exercise.c)
@@ -87,3 +96,10 @@ add_executable(04_Common_operations_for_pointers chapter05_pointer/04_Common_ope
 add_executable(05_zhizhendezizengzijian chapter05_pointer/05_zhizhendezizengzijian.c)
 add_executable(06_sametype_pointer_minus chapter05_pointer/06_sametype_pointer_minus.c)
 add_executable(07multipointer chapter05_pointer/07multipointer.c)
+add_executable(08_pointer_and_arry chapter05_pointer/08_pointer_and_arry.c)
+add_executable(08_2pointer_and_arry chapter05_pointer/08_2pointer_and_arry.c)
+add_executable(10Two_dimensional_arrays_and_pointers chapter05_pointer/10Two_dimensional_arrays_and_pointers.c)
+add_executable(11_pointer_arry_and_arry_pointer chapter05_pointer/11_pointer_arry_and_arry_pointer.c)
+add_executable(13_expression_of_str_arry chapter05_pointer/13_expression_of_str_arry.c)
+add_executable(14_ExTeNd chapter05_pointer/14_ExTeNd.c)
+add_executable(01_declaration_of_function chapter06_function/01_declaration_of_function.c)

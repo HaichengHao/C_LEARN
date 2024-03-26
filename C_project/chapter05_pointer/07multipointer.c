@@ -25,6 +25,7 @@ int main(){
 //p=275ff85c , position = 00000055275ff850  <--可以看到指针变量p的值就是i的地址
 //pp=275ff850 , position = 00000055275ff848 <--可以看到二重指针pp的值就是p的地址
 
+/*
 #include <stdio.h>
 int main() {
     int var = 3000;
@@ -36,6 +37,35 @@ int main() {
     printf("Value of ptr: %d\n", *ptr);         // 解引用一次
     printf("Value of pptr: %d\n", **pptr);      // 解引用两次
     printf("Value of ppptr: %d\n", ***ppptr);   // 解引用三次
+
+    return 0;
+}
+ */
+
+
+#include <stdio.h>
+#include <stdlib.h>
+int main(){
+//    1从键盘获取row和colum
+    int row,column;
+    printf("请输入第一维长度:\n");
+    scanf("%d",&row);
+    printf("请输入第二维长度:\n");
+    scanf("%d",&column);
+//    2初始化外层数组
+    int **arr = (int **) malloc(row*sizeof(int *));
+    for(int i=0; i<row;i++){
+//    3初始化内层数组，并给内层数组的元素赋值
+        arr[i] = (int *) malloc(column*sizeof(int));
+        for(int j=0; j<column;j++){
+            arr[i][j] = 1;
+            printf("%d\t",arr[i][j]);
+        }
+        printf("\n");
+    }
+
+//    使用完毕回收此数组
+    free(arr);
 
     return 0;
 }

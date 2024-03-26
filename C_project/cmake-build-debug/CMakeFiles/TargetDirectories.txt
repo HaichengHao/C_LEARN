@@ -27,5 +27,12 @@ D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/04_Common_operations_for_point
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/05_zhizhendezizengzijian.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/06_sametype_pointer_minus.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/07multipointer.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/08_pointer_and_arry.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/08_2pointer_and_arry.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/10Two_dimensional_arrays_and_pointers.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/11_pointer_arry_and_arry_pointer.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/13_expression_of_str_arry.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/14_ExTeNd.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/01_declaration_of_function.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
