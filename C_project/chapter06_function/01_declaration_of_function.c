@@ -8,6 +8,7 @@
 }
  */
 
+/*
 #include <stdio.h>
 //定义一个函数add_num,有两个参数a,b函数体是实现a+b并返回
 int add_num(int a, int b){
@@ -36,4 +37,35 @@ int main(){
     printf("%d\n",num_1);
     min_nunm(121,98);
     return 0;
+}*/
+
+
+#include <stdio.h>
+//打印5行6列的*型矩形并返回面积
+void print(){
+    for(int i = 0;i < 5;i++){
+        for(int j = 0;j < 6;j++){
+            printf("*");
+        }
+        printf("\n");
+    }
+}
+
+//打印m行n列的*型矩形,并返回其面积
+int printGraphandArea(int m,int n){
+    for(int i = 0;i < m;i++){
+        for(int j = 0;j < n;j++){
+            printf("*");
+        }
+        printf("\n");
+    }
+    return m*n;
+}
+
+int main() {
+//    print();
+
+    int area=printGraphandArea(5,10);
+    printf("%d\n",area);
+
 }

@@ -34,5 +34,9 @@ D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/11_pointer_arry_and_arry_point
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/13_expression_of_str_arry.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/14_ExTeNd.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/01_declaration_of_function.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/02_ReTuRn.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/03_FuNcAtIoN_cAlLs.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/04_exercise.dir
+D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/05_exercise02.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_LEARN/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

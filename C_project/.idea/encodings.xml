@@ -26,6 +26,9 @@
     <file url="file://$PROJECT_DIR$/chapter05_pointer/06_sametype_pointer_minus.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter05_pointer/11_pointer_arry_and_arry_pointer.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter05_pointer/14_ExTeNd.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/02_ReTuRn.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/04_exercise.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/05_exercise02.c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

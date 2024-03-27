@@ -102,4 +102,12 @@ add_executable(10Two_dimensional_arrays_and_pointers chapter05_pointer/10Two_dim
 add_executable(11_pointer_arry_and_arry_pointer chapter05_pointer/11_pointer_arry_and_arry_pointer.c)
 add_executable(13_expression_of_str_arry chapter05_pointer/13_expression_of_str_arry.c)
 add_executable(14_ExTeNd chapter05_pointer/14_ExTeNd.c)
-add_executable(01_declaration_of_function chapter06_function/01_declaration_of_function.c)
+add_executable(01_declaration_of_function chapter06_function/01_declaration_of_function.c
+        chapter06_function/02_ReTuRn.c
+        chapter06_function/03_FuNcAtIoN_cAlLs.c
+        chapter06_function/04_exercise.c
+        chapter06_function/05_exercise02.c)
+add_executable(02_ReTuRn chapter06_function/02_ReTuRn.c)
+add_executable(03_FuNcAtIoN_cAlLs chapter06_function/03_FuNcAtIoN_cAlLs.c)
+add_executable(04_exercise chapter06_function/04_exercise.c)
+add_executable(05_exercise02 chapter06_function/05_exercise02.c)

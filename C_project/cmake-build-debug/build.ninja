@@ -1558,6 +1558,30 @@ build CMakeFiles/01_declaration_of_function.dir/chapter06_function/01_declaratio
   OBJECT_DIR = CMakeFiles\01_declaration_of_function.dir
   OBJECT_FILE_DIR = CMakeFiles\01_declaration_of_function.dir\chapter06_function
 
+build CMakeFiles/01_declaration_of_function.dir/chapter06_function/02_ReTuRn.c.obj: C_COMPILER__01_declaration_of_function_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/02_ReTuRn.c || cmake_object_order_depends_target_01_declaration_of_function
+  DEP_FILE = CMakeFiles\01_declaration_of_function.dir\chapter06_function\02_ReTuRn.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_declaration_of_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_declaration_of_function.dir\chapter06_function
+
+build CMakeFiles/01_declaration_of_function.dir/chapter06_function/03_FuNcAtIoN_cAlLs.c.obj: C_COMPILER__01_declaration_of_function_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/03_FuNcAtIoN_cAlLs.c || cmake_object_order_depends_target_01_declaration_of_function
+  DEP_FILE = CMakeFiles\01_declaration_of_function.dir\chapter06_function\03_FuNcAtIoN_cAlLs.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_declaration_of_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_declaration_of_function.dir\chapter06_function
+
+build CMakeFiles/01_declaration_of_function.dir/chapter06_function/04_exercise.c.obj: C_COMPILER__01_declaration_of_function_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/04_exercise.c || cmake_object_order_depends_target_01_declaration_of_function
+  DEP_FILE = CMakeFiles\01_declaration_of_function.dir\chapter06_function\04_exercise.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_declaration_of_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_declaration_of_function.dir\chapter06_function
+
+build CMakeFiles/01_declaration_of_function.dir/chapter06_function/05_exercise02.c.obj: C_COMPILER__01_declaration_of_function_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/05_exercise02.c || cmake_object_order_depends_target_01_declaration_of_function
+  DEP_FILE = CMakeFiles\01_declaration_of_function.dir\chapter06_function\05_exercise02.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01_declaration_of_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\01_declaration_of_function.dir\chapter06_function
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 01_declaration_of_function
@@ -1566,7 +1590,7 @@ build CMakeFiles/01_declaration_of_function.dir/chapter06_function/01_declaratio
 #############################################
 # Link the executable 01_declaration_of_function.exe
 
-build 01_declaration_of_function.exe: C_EXECUTABLE_LINKER__01_declaration_of_function_Debug CMakeFiles/01_declaration_of_function.dir/chapter06_function/01_declaration_of_function.c.obj
+build 01_declaration_of_function.exe: C_EXECUTABLE_LINKER__01_declaration_of_function_Debug CMakeFiles/01_declaration_of_function.dir/chapter06_function/01_declaration_of_function.c.obj CMakeFiles/01_declaration_of_function.dir/chapter06_function/02_ReTuRn.c.obj CMakeFiles/01_declaration_of_function.dir/chapter06_function/03_FuNcAtIoN_cAlLs.c.obj CMakeFiles/01_declaration_of_function.dir/chapter06_function/04_exercise.c.obj CMakeFiles/01_declaration_of_function.dir/chapter06_function/05_exercise02.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_declaration_of_function.dir
@@ -1575,6 +1599,138 @@ build 01_declaration_of_function.exe: C_EXECUTABLE_LINKER__01_declaration_of_fun
   TARGET_FILE = 01_declaration_of_function.exe
   TARGET_IMPLIB = lib01_declaration_of_function.dll.a
   TARGET_PDB = 01_declaration_of_function.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 02_ReTuRn
+
+
+#############################################
+# Order-only phony target for 02_ReTuRn
+
+build cmake_object_order_depends_target_02_ReTuRn: phony || CMakeFiles/02_ReTuRn.dir
+
+build CMakeFiles/02_ReTuRn.dir/chapter06_function/02_ReTuRn.c.obj: C_COMPILER__02_ReTuRn_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/02_ReTuRn.c || cmake_object_order_depends_target_02_ReTuRn
+  DEP_FILE = CMakeFiles\02_ReTuRn.dir\chapter06_function\02_ReTuRn.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\02_ReTuRn.dir
+  OBJECT_FILE_DIR = CMakeFiles\02_ReTuRn.dir\chapter06_function
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 02_ReTuRn
+
+
+#############################################
+# Link the executable 02_ReTuRn.exe
+
+build 02_ReTuRn.exe: C_EXECUTABLE_LINKER__02_ReTuRn_Debug CMakeFiles/02_ReTuRn.dir/chapter06_function/02_ReTuRn.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\02_ReTuRn.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 02_ReTuRn.exe
+  TARGET_IMPLIB = lib02_ReTuRn.dll.a
+  TARGET_PDB = 02_ReTuRn.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 03_FuNcAtIoN_cAlLs
+
+
+#############################################
+# Order-only phony target for 03_FuNcAtIoN_cAlLs
+
+build cmake_object_order_depends_target_03_FuNcAtIoN_cAlLs: phony || CMakeFiles/03_FuNcAtIoN_cAlLs.dir
+
+build CMakeFiles/03_FuNcAtIoN_cAlLs.dir/chapter06_function/03_FuNcAtIoN_cAlLs.c.obj: C_COMPILER__03_FuNcAtIoN_cAlLs_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/03_FuNcAtIoN_cAlLs.c || cmake_object_order_depends_target_03_FuNcAtIoN_cAlLs
+  DEP_FILE = CMakeFiles\03_FuNcAtIoN_cAlLs.dir\chapter06_function\03_FuNcAtIoN_cAlLs.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\03_FuNcAtIoN_cAlLs.dir
+  OBJECT_FILE_DIR = CMakeFiles\03_FuNcAtIoN_cAlLs.dir\chapter06_function
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 03_FuNcAtIoN_cAlLs
+
+
+#############################################
+# Link the executable 03_FuNcAtIoN_cAlLs.exe
+
+build 03_FuNcAtIoN_cAlLs.exe: C_EXECUTABLE_LINKER__03_FuNcAtIoN_cAlLs_Debug CMakeFiles/03_FuNcAtIoN_cAlLs.dir/chapter06_function/03_FuNcAtIoN_cAlLs.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\03_FuNcAtIoN_cAlLs.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03_FuNcAtIoN_cAlLs.exe
+  TARGET_IMPLIB = lib03_FuNcAtIoN_cAlLs.dll.a
+  TARGET_PDB = 03_FuNcAtIoN_cAlLs.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 04_exercise
+
+
+#############################################
+# Order-only phony target for 04_exercise
+
+build cmake_object_order_depends_target_04_exercise: phony || CMakeFiles/04_exercise.dir
+
+build CMakeFiles/04_exercise.dir/chapter06_function/04_exercise.c.obj: C_COMPILER__04_exercise_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/04_exercise.c || cmake_object_order_depends_target_04_exercise
+  DEP_FILE = CMakeFiles\04_exercise.dir\chapter06_function\04_exercise.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\04_exercise.dir
+  OBJECT_FILE_DIR = CMakeFiles\04_exercise.dir\chapter06_function
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 04_exercise
+
+
+#############################################
+# Link the executable 04_exercise.exe
+
+build 04_exercise.exe: C_EXECUTABLE_LINKER__04_exercise_Debug CMakeFiles/04_exercise.dir/chapter06_function/04_exercise.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\04_exercise.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 04_exercise.exe
+  TARGET_IMPLIB = lib04_exercise.dll.a
+  TARGET_PDB = 04_exercise.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 05_exercise02
+
+
+#############################################
+# Order-only phony target for 05_exercise02
+
+build cmake_object_order_depends_target_05_exercise02: phony || CMakeFiles/05_exercise02.dir
+
+build CMakeFiles/05_exercise02.dir/chapter06_function/05_exercise02.c.obj: C_COMPILER__05_exercise02_unscanned_Debug D$:/C_LEARN/C_project/chapter06_function/05_exercise02.c || cmake_object_order_depends_target_05_exercise02
+  DEP_FILE = CMakeFiles\05_exercise02.dir\chapter06_function\05_exercise02.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\05_exercise02.dir
+  OBJECT_FILE_DIR = CMakeFiles\05_exercise02.dir\chapter06_function
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 05_exercise02
+
+
+#############################################
+# Link the executable 05_exercise02.exe
+
+build 05_exercise02.exe: C_EXECUTABLE_LINKER__05_exercise02_Debug CMakeFiles/05_exercise02.dir/chapter06_function/05_exercise02.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\05_exercise02.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 05_exercise02.exe
+  TARGET_IMPLIB = lib05_exercise02.dll.a
+  TARGET_PDB = 05_exercise02.exe.dbg
 
 
 #############################################
@@ -1612,6 +1768,8 @@ build 01_if_else: phony 01_if_else.exe
 
 build 01_pointer_overview: phony 01_pointer_overview.exe
 
+build 02_ReTuRn: phony 02_ReTuRn.exe
+
 build 02_othermethod_of_def_one_dimensional_arry: phony 02_othermethod_of_def_one_dimensional_arry.exe
 
 build 02_switch_case: phony 02_switch_case.exe
@@ -1619,6 +1777,8 @@ build 02_switch_case: phony 02_switch_case.exe
 build 02_value_operator: phony 02_value_operator.exe
 
 build 03_Arry_exercise: phony 03_Arry_exercise.exe
+
+build 03_FuNcAtIoN_cAlLs: phony 03_FuNcAtIoN_cAlLs.exe
 
 build 03_Value_operator: phony 03_Value_operator.exe
 
@@ -1630,11 +1790,15 @@ build 04_Logical_operators: phony 04_Logical_operators.exe
 
 build 04_arry_copy: phony 04_arry_copy.exe
 
+build 04_exercise: phony 04_exercise.exe
+
 build 04_while_loop: phony 04_while_loop.exe
 
 build 05_Bitwise_operators: phony 05_Bitwise_operators.exe
 
 build 05_do_while: phony 05_do_while.exe
+
+build 05_exercise02: phony 05_exercise02.exe
 
 build 05_reverse_arry: phony 05_reverse_arry.exe
 
@@ -1682,7 +1846,7 @@ build C_project: phony C_project.exe
 #############################################
 # Folder: D:/C_LEARN/C_project/cmake-build-debug
 
-build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe 01_definition_of_a_one_dimensional_arry.exe 02_othermethod_of_def_one_dimensional_arry.exe 03_Arry_exercise.exe 04_arry_copy.exe 05_reverse_arry.exe 06_char_arry_and_string.exe 07_multi_dimensional_arry.exe 01_pointer_overview.exe 02_value_operator.exe 03_Value_operator.exe 04_Common_operations_for_pointers.exe 05_zhizhendezizengzijian.exe 06_sametype_pointer_minus.exe 07multipointer.exe 08_pointer_and_arry.exe 08_2pointer_and_arry.exe 10Two_dimensional_arrays_and_pointers.exe 11_pointer_arry_and_arry_pointer.exe 13_expression_of_str_arry.exe 14_ExTeNd.exe 01_declaration_of_function.exe
+build all: phony C_project.exe 01_HelloWord.exe 04_Logical_operators.exe 05_Bitwise_operators.exe 12_Conditional_operators.exe 13_sizeof.exe 01_if_else.exe 02_switch_case.exe 03_for_loop.exe 04_while_loop.exe 05_do_while.exe 06_infinity_loop.exe 07_Nested_loops.exe 08_break_continue_detail.exe 09_goto_label.exe 01_definition_of_a_one_dimensional_arry.exe 02_othermethod_of_def_one_dimensional_arry.exe 03_Arry_exercise.exe 04_arry_copy.exe 05_reverse_arry.exe 06_char_arry_and_string.exe 07_multi_dimensional_arry.exe 01_pointer_overview.exe 02_value_operator.exe 03_Value_operator.exe 04_Common_operations_for_pointers.exe 05_zhizhendezizengzijian.exe 06_sametype_pointer_minus.exe 07multipointer.exe 08_pointer_and_arry.exe 08_2pointer_and_arry.exe 10Two_dimensional_arrays_and_pointers.exe 11_pointer_arry_and_arry_pointer.exe 13_expression_of_str_arry.exe 14_ExTeNd.exe 01_declaration_of_function.exe 02_ReTuRn.exe 03_FuNcAtIoN_cAlLs.exe 04_exercise.exe 05_exercise02.exe
 
 # =============================================================================
 # Built-in targets
