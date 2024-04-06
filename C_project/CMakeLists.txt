@@ -106,8 +106,50 @@ add_executable(01_declaration_of_function chapter06_function/01_declaration_of_f
         chapter06_function/02_ReTuRn.c
         chapter06_function/03_FuNcAtIoN_cAlLs.c
         chapter06_function/04_exercise.c
-        chapter06_function/05_exercise02.c)
+        chapter06_function/05_exercise02.c
+        chapter06_function/06Extend_of_mainfunc.c
+        chapter06_function/08_Function_prototypes.c
+        chapter06_function/09Parameter_passing_mechanism.c
+        chapter06_function/10_value_passing.c
+        chapter06_function/10_VaLuE_passing2.c
+        chapter06_function/11_Address_passing.c
+        chapter06_function/12_Addressing_Passing.c
+        chapter06_function/13_Arry_transfer.c
+        chapter06_function/14_Str_as_formal_args.c
+        chapter06_function/15_ExErCiSe.c
+        chapter06_function/16_ReCurSion.c
+        chapter06_function/17_variable_ArGuments.c
+        chapter06_function/18_PoInter_ArGuments.c
+        chapter06_function/19_func_PoInter.c
+        chapter06_function/20_Callback_function.c
+        chapter06_function/21_VariAble.c
+        chapter06_function/22_VariaBle02.c
+        chapter06_function/24_Register_extern_const.c
+        "chapter07_Structer/01Declarations_of_structs .c"
+        chapter07_Structer/02_StRuct_test.c
+)
 add_executable(02_ReTuRn chapter06_function/02_ReTuRn.c)
 add_executable(03_FuNcAtIoN_cAlLs chapter06_function/03_FuNcAtIoN_cAlLs.c)
 add_executable(04_exercise chapter06_function/04_exercise.c)
 add_executable(05_exercise02 chapter06_function/05_exercise02.c)
+add_executable(06Extend_of_mainfunc chapter06_function/06Extend_of_mainfunc.c)
+
+
+add_executable(07_func_exit chapter06_function/07_func_exit.c)
+add_executable(09Parameter_passing_mechanism chapter06_function/09Parameter_passing_mechanism.c)
+add_executable(10_value_passing chapter06_function/10_value_passing.c)
+add_executable(10_VaLuE_passing2 chapter06_function/10_VaLuE_passing2.c)
+add_executable(11_Address_passing chapter06_function/11_Address_passing.c)
+add_executable(12_Addressing_Passing chapter06_function/12_Addressing_Passing.c)
+add_executable(13_Arry_transfer chapter06_function/13_Arry_transfer.c)
+add_executable(15_ExErCiSe chapter06_function/15_ExErCiSe.c)
+add_executable(16_ReCurSion chapter06_function/16_ReCurSion.c)
+add_executable(18_PoInter_ArGuments chapter06_function/18_PoInter_ArGuments.c)
+add_executable(19_func_PoInter chapter06_function/19_func_PoInter.c)
+add_executable(20_Callback_function chapter06_function/20_Callback_function.c)
+add_executable(21_VariAble chapter06_function/21_VariAble.c)
+
+add_executable(22_VariaBle02 chapter06_function/22_VariaBle02.c)
+
+add_executable(23_Dynamic_and_Static_storage chapter06_function/23_Dynamic_and_Static_storage.c)
+add_executable(01Declarations_of_structs  "chapter07_Structer/01Declarations_of_structs .c")

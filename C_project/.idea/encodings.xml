@@ -29,6 +29,11 @@
     <file url="file://$PROJECT_DIR$/chapter06_function/02_ReTuRn.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter06_function/04_exercise.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chapter06_function/05_exercise02.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/12_Addressing_Passing.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/13_Arry_transfer.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/16_ReCurSion.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/18_PoInter_ArGuments.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06_function/20_Callback_function.c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
